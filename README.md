@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hassan khan</h1>
+<h1 align="center">Hi 👋, I'm M.Hassan Khan</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassankhan678910&label=Profile%20views&color=0e75b6&style=flat" alt="hassankhan678910" /> </p>
@@ -7,18 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Super maket**
+- 🔭 I’m currently working on **Super market**
 
 - 🌱 I’m currently learning **Front-end web developer**
 
-- 💬 Ask me about **Html, CSS, JavaScript, MS office**
+- 💬 Ask me about **Html, JavaScript, CSS.Ms office**
 
 - 📫 How to reach me **hassssankhan2007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hassan khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan khan" height="30" width="40" /></a>
-<a href="https://fb.com/hassan khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hassan khan" height="30" width="40" /></a>
+<a href="https://fb.com/hassankhan678910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hassankhan678910" height="30" width="40" /></a>
 <a href="https://instagram.com/hassan_khan_2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassan_khan_2007" height="30" width="40" /></a>
 </p>
 
